@@ -1,16 +1,28 @@
-# task_managment_app
+# 📝 Task Management App
 
-A new Flutter project.
+A simple task management app built with **Flutter** and **Riverpod** for state management. This app allows users to add, edit, delete, mark tasks as completed, set priority, and sort tasks.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📌 Add, update, and delete tasks
+- ✅ Mark tasks as completed
+- 🔥 Set tasks as high priority
+- 🔍 Search tasks by name
+- 📅 Sort tasks by date or priority
+- 🌙 Dark and light mode support
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Setup Instructions
+
+### 1️⃣ Clone the Repository & Navigate to the Project
+git clone https://github.com/riddhi1214/task_management_app.git
+cd task_management_app 
+
+### 2️⃣ Install Dependencies
+flutter pub get
+
+3️⃣ Run the App
+flutter run
